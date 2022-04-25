@@ -52,5 +52,5 @@ h4{
   border: 0;
 }
 .perfect {
- display: flex;
+ float: right;
 }
